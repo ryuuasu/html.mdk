@@ -1,0 +1,9 @@
+a:link, :visited, :active {
+    text-decoration: none;
+    color:  blue;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
